@@ -1,13 +1,13 @@
-Regressão Logística - Plano de Saúde - dados anonimizados
+# Regressão Logística - Plano de Saúde
 Autor: Rogério R R Coelho
 
 O objetivo é identificar os fatores relacionados à evasão (cancelamento) de beneficiários de um plano de saúde e gerar insights que ajudem a reduzir o churn.
 
-📊 Objetivo da Análise
+# 📊 Objetivo da Análise
 
 Criar e avaliar um modelo estatístico preditivo capaz de estimar quais beneficiários têm maior risco de evasão nos próximos 12 meses.
 
-📂 Base de Dados (nenhuma descrição adicional sobre os dados foi disponibilizada)
+# 📂 Base de Dados
 
 Id_cliente: Identificação única do cliente
 Titularidade: Se é titular ou dependente do plano
